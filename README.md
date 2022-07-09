@@ -1,6 +1,3 @@
-# certifications
-
-
 # Python 
 ## Python and Django Full Stack Developer Bootcamp
 ### LinK:
